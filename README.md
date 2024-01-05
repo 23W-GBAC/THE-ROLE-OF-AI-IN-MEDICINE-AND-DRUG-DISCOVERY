@@ -1,11 +1,11 @@
 # THE-ROLE-OF-AI-IN-MEDICINE-AND-DRUG-DISCOVERY
-#BLOG1
+##BLOG1
 
 Artificial Intelligence (AI) plays a crucial role in transforming the field of medicine in various ways. Here are some key aspects of AI in medicine:
 
-#Diagnosis and Imaging:
+##Diagnosis and Imaging:
 
-#Medical Imaging: AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans, aiding in the detection and diagnosis of diseases. This can lead to faster and more accurate diagnoses.
+##Medical Imaging: AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans, aiding in the detection and diagnosis of diseases. This can lead to faster and more accurate diagnoses.
 Pathology: AI is employed in pathology to analyze tissue samples, helping pathologists identify and classify diseases.
 Predictive Analytics and Risk Assessment:
 
