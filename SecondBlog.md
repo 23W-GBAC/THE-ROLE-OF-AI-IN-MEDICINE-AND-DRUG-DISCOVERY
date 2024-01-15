@@ -1,6 +1,10 @@
 # THE ROLE OF AI IN TELEMEDICINE AND ELECTRONIC HEALTH RECORD
 
 ## Telemedicine:
+
+![11](https://github.com/23W-GBAC/mona-sarhan/assets/148862863/14e5dfad-6ffb-47f5-9cfd-add213338752)
+
+
 #### 1-Remote Patient Monitoring:
 
 AI enables continuous monitoring of patients' vital signs and health metrics remotely.
@@ -17,6 +21,10 @@ AI-driven chatbots and virtual assistants can provide preliminary assessments, a
 #### 4-Predictive Analytics:
 
 AI algorithms analyze patient data to predict potential health issues, enabling early intervention and personalized care plans.
+
+
+![22](https://github.com/23W-GBAC/mona-sarhan/assets/148862863/25932c13-f824-47ed-9246-d0d4f7e19443)
+
 
 #### 5-Teleconsultation Enhancement:
 
@@ -50,6 +58,9 @@ In more advanced applications, AI can assist surgeons during remote surgeries by
 
 
 ## ELECTRONIC HEALTH RECORD:
+
+
+![33](https://github.com/23W-GBAC/mona-sarhan/assets/148862863/8d0389ad-ea69-4a5e-971c-566719d0a06b)
 
 
 #### 1-Data Security and Privacy:
