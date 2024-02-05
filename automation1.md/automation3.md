@@ -1,4 +1,4 @@
-# solution for health care automation
+# final solution for health care automation
 ### Implementing a healthcare automation solution involves a careful consideration of its advantages and disadvantages to strike a balance that optimally serves the needs of healthcare providers, staff, and patients. Here's a final solution that attempts to address key aspects:
 
 # Solution: Integrated Healthcare Automation System
