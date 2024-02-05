@@ -43,7 +43,7 @@ Consideration: Security measures, encryption, and compliance with privacy regula
  Context: Healthcare professionals may have varying levels of technological proficiency.
 Consideration: The project should include user-friendly interfaces and comprehensive training programs to ensure successful adoption.
 
-# solution 
+# solution https://github.com/23W-GBAC/mona-sarhan/blob/main/2.md
 
 
 
