@@ -5,11 +5,9 @@ app = Flask(__name__)
 
 prescriptions = []
 
-
 @app.route('/')
 def index():
     return render_template('prescriptions.html', prescriptions=prescriptions)
-
 
 @app.route('/prescribe', methods=['GET', 'POST'])
 def prescribe():
